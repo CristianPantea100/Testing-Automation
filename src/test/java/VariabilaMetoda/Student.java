@@ -46,6 +46,9 @@ public class Student {
     public Boolean AreDiploma;
 
 
+
+
+
     @Test
     public void prezentareStudent(){
         Nume= "Briciu";
